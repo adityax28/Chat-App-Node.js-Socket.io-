@@ -4,9 +4,9 @@
 
 3 Install dependacies. express, nodemon(dev dep.)
 
-4 Create a express server (Server.js)
+4 Create an Express server (Server.js)
 
-5 do frontend part
+5 do Frontend part
 
 6 Install socket.io, setup socket.io in server.js and client.js
 
