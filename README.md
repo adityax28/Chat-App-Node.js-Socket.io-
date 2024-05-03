@@ -15,3 +15,6 @@
 8 Recieve message on server and broadacast to all clients
 
 9 Recieve message on client and display it, scrollToBottom etc...
+
+For more details or support please contact.\
+
